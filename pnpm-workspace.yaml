@@ -1,0 +1,9 @@
+packages:
+  - 'packages/**'
+  - 'scripts/**'
+  - 'faas/**'
+  - 'baas/**'
+  - 'web/**'
+  - '! **/test/**'
+  - '! **/tests/**'
+  - '! **/dist/**'
